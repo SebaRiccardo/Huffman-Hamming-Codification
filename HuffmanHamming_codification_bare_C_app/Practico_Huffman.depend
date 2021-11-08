@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1527789091 source:c:\users\sebastian\dropbox\unsl\teoria de la informacion y codificacion\practico_huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1528258753 
+
+1528225969 source:c:\users\seba0\dropbox\unsl\teoria de la informacion y codificacion\practico_huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1527607987 source:c:\users\seba0\desktop\practico_huffmancopia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1528250511 source:/home/osboxes/Desktop/Practico_Huffman/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1528258753 source:c:\users\sebastian\dropbox\unsl\teoria de la informacion y codificacion\huffman_hamming_javaapp\practico_huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1528272272 source:/home/soathekid/Escritorio/Huffman_Hamming_JavaApp/Practico_Huffman_en_C/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1528440391 source:/home/soathekid/Escritorio/Practico_Huffman_en_C/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
