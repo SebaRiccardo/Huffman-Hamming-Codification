@@ -19,7 +19,7 @@ Integrants of the project:
 - The `\Source_Code` folder contains the source code for the full application, the GUI written in JAVA that serves as "frontend" for the Huffman and Hamming programs.
 - The  `Build` folder contains the build java app with all its libraries.
 
-
+The *holy bible.txt* is the reference txt archive used for testing.
 
 
 ![PosterConaisii](https://user-images.githubusercontent.com/55523632/140676207-c44b2b73-8fd4-46c7-8955-a2eed041a744.jpg)
