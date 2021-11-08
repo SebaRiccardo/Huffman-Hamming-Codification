@@ -13,7 +13,7 @@ Integrants of the project:
 > - Gonzalo Barroso
 
 
+Go to the folder: \Docs to read more about the app and how it works. (only in spanish)
 
 
-
-![PosterConaisii](E:\UNSL\Teoria de la Informacion\Entrega final\PosterConaisii.jpg)
+![PosterConaisii](https://user-images.githubusercontent.com/55523632/140676207-c44b2b73-8fd4-46c7-8955-a2eed041a744.jpg)
